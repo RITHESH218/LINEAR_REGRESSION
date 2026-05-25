@@ -1,5 +1,4 @@
 ﻿# LINEAR_REGRESSION
-# LINEAR_REGRESSION
 
 A machine learning project that predicts student performance using a Linear Regression model. This repository contains the dataset, trained model, Streamlit application, and required dependencies for running the project.
 
